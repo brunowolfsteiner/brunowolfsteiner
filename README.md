@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bruno Wolfsteiner</h1>
 
-![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
+![MasterHead](https://camo.githubusercontent.com/dcba36fec68f7f3cc9663d2c09d233204008e4323bbfdbb7124d6c5bb9e3889c/68747470733a2f2f7334313636302e7063646e2e636f2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f39302d61727469636c652d62616e6e65722d322e676966)
 
 <h3 align="center">I am a backend developer passionate about technology, currently looking for my first job and studying a degree in cybersecurity at UP, University of Palermo.</h3>
 
