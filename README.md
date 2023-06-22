@@ -4,7 +4,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <details>
- <summary><h3>📄 Un poco sobre mi</h3></summary>
+ <summary><h3>📄 Sobre mi </h3></summary>
  
 Soy un apasionado desarrollador back-end con amplia experiencia en la creación de soluciones robustas y eficientes. Mi enfoque principal es garantizar un rendimiento óptimo 
 y una funcionalidad sólida para las aplicaciones web y sistemas de backend que desarrollo.
