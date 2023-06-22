@@ -6,7 +6,7 @@
 <details>
  <summary><h3>📄 Sobre mi </h3></summary>
  
-Soy un apasionado desarrollador back-end con amplia experiencia en la creación de soluciones robustas y eficientes. Mi enfoque principal es garantizar un rendimiento óptimo 
+Soy un apasionado Desarrollador Backend y Estudiante en Ciberseguridad con amplia experiencia en la creación de soluciones robustas y eficientes. Mi enfoque principal es garantizar un rendimiento óptimo 
 y una funcionalidad sólida para las aplicaciones web y sistemas de backend que desarrollo.
 
 Además de mis habilidades técnicas, poseo excelentes habilidades blandas que me permiten trabajar de manera efectiva en equipos multidisciplinarios, colaborando de manera 
