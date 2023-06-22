@@ -1,7 +1,7 @@
 # 👋🏻 Hola Mundo, soy Bruno Wolfsteiner.
 **`Backend Developer`**
 
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://media.licdn.com/dms/image/D4E16AQFWT0pag4SZdQ/profile-displaybackgroundimage-shrink_350_1400/0/1681844645915?e=1692835200&v=beta&t=9sq1Aflz1wtE-hqSIr8pbqN5jGZ4Y-RAdDBvJYAGoJA)
 
 <details>
  <summary><h3>📄 Sobre mi </h3></summary>
