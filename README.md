@@ -1,4 +1,4 @@
-# 👋🏻 Hola Mundo, soy Bruno Wolfsteiner.
+# 👋🏻 Hola Mundo, soy Bruno Wolfsteiner
 **`Desarrollador Backend + Estudiante en Ciberseguridad`**
 
 <img align="center" alt="Coding" width="1200" src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif">
