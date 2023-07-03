@@ -6,16 +6,15 @@
 <details>
  <summary><h3>📄 Sobre mi </h3></summary>
  
-Soy un apasionado Desarrollador Backend y Estudiante en Ciberseguridad con amplia experiencia en la creación de soluciones robustas y eficientes. Mi enfoque principal es garantizar un rendimiento óptimo 
-y una funcionalidad sólida para las aplicaciones web y sistemas de backend que desarrollo.
+Como Desarrollador Backend y estudiante de Ciberseguridad, poseo un amplio conjunto de habilidades técnicas que me permiten enfrentar desafíos en el ámbito de la programación y la seguridad informática. Mi experiencia se extiende a lenguajes de programación como JavaScript y TypeScript, los cuales utilizo para construir aplicaciones robustas y eficientes. Además, estoy altamente capacitado en el uso de tecnologías como Node.js, Express.js y Sequelize.js, que me permiten desarrollar servidores y APIs escalables y seguros.
 
-Además de mis habilidades técnicas, poseo excelentes habilidades blandas que me permiten trabajar de manera efectiva en equipos multidisciplinarios, colaborando de manera 
-fluida con diseñadores, front-end developers y otros profesionales.
+Mi conocimiento en bases de datos es diverso, ya que estoy familiarizado tanto con bases de datos SQL como con las NoSQL. Tengo experiencia en el diseño y manejo de bases de datos relacionales, así como en la implementación y optimización de consultas. Además, he trabajado con bases de datos NoSQL, lo que me permite manejar grandes volúmenes de datos de manera eficiente y flexible.
 
-Mi pasión por la inteligencia artificial me impulsa constantemente a explorar nuevas tecnologías y técnicas para mejorar la eficiencia y la inteligencia de las aplicaciones 
-que desarrollo. Estoy emocionado por el potencial transformador de la IA y estoy comprometido en seguir aprendiendo y aplicando estos conocimientos en proyectos innovadores.
+Mi habilidad para interactuar con APIs de terceros es otro punto fuerte en mi perfil. Tengo experiencia en el consumo de APIs existentes, así como en la creación de mis propias APIs para que otros desarrolladores puedan utilizar mis servicios. Además, poseo un sólido conocimiento en Git y GitHub, lo que me permite trabajar de manera colaborativa, mantener un historial de versiones sólido y facilitar el despliegue y la integración continua en proyectos.
 
-[Mira mi portfolio!](https://karmen-durbin-swe.netlify.app/)
+Más allá de mis habilidades técnicas, también valoro las habilidades blandas y el trabajo en equipo. Me considero una persona proactiva, con gran capacidad de adaptación y un enfoque centrado en la resolución de problemas. Estoy acostumbrado a trabajar en entornos colaborativos, donde la comunicación efectiva y la empatía son fundamentales para lograr resultados óptimos.
+
+Además, tengo un creciente interés en el campo de la Inteligencia Artificial, y estoy deseoso de explorar sus aplicaciones en el desarrollo de software y la seguridad cibernética. Mi objetivo es seguir aprendiendo y creciendo en este campo, manteniéndome actualizado con las últimas tendencias y tecnologías.
 
  </details>
 
