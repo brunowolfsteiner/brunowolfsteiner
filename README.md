@@ -5,16 +5,8 @@
 
 <details>
  <summary><h3>📄 Sobre mi </h3></summary>
- 
-Como Desarrollador Backend y estudiante de Ciberseguridad, poseo un amplio conjunto de habilidades técnicas que me permiten enfrentar desafíos en el ámbito de la programación y la seguridad informática. Mi experiencia se extiende a lenguajes de programación como JavaScript y TypeScript, los cuales utilizo para construir aplicaciones robustas y eficientes. Además, estoy altamente capacitado en el uso de tecnologías como Node.js, Express.js y Sequelize.js, que me permiten desarrollar servidores y APIs escalables y seguros.
 
-Mi conocimiento en bases de datos es diverso, ya que estoy familiarizado tanto con bases de datos SQL como con las NoSQL. Tengo experiencia en el diseño y manejo de bases de datos relacionales, así como en la implementación y optimización de consultas. Además, he trabajado con bases de datos NoSQL, lo que me permite manejar grandes volúmenes de datos de manera eficiente y flexible.
-
-Mi habilidad para interactuar con APIs de terceros es otro punto fuerte en mi perfil. Tengo experiencia en el consumo de APIs existentes, así como en la creación de mis propias APIs para que otros desarrolladores puedan utilizar mis servicios. Además, poseo un sólido conocimiento en Git y GitHub, lo que me permite trabajar de manera colaborativa, mantener un historial de versiones sólido y facilitar el despliegue y la integración continua en proyectos.
-
-Más allá de mis habilidades técnicas, también valoro las habilidades blandas y el trabajo en equipo. Me considero una persona proactiva, con gran capacidad de adaptación y un enfoque centrado en la resolución de problemas. Estoy acostumbrado a trabajar en entornos colaborativos, donde la comunicación efectiva y la empatía son fundamentales para lograr resultados óptimos.
-
-Además, tengo un creciente interés en el campo de la Inteligencia Artificial, y estoy deseoso de explorar sus aplicaciones en el desarrollo de software y la seguridad cibernética. Mi objetivo es seguir aprendiendo y creciendo en este campo, manteniéndome actualizado con las últimas tendencias y tecnologías.
+Soy un profesional apasionado por la tecnología, especializado en el desarrollo Backend y con experiencia como Appointment Setter. Actualmente, estoy enfocado en ampliar mis conocimientos en ciberseguridad para contribuir a la protección de datos en el mundo digital. Mi interés por las inteligencias artificiales me motiva a explorar soluciones innovadoras en cada proyecto. Siempre buscando nuevos retos y oportunidades para crecer en el emocionante campo de la tecnología. ¡Conéctame y exploremos cómo puedo aportar valor a tu equipo!
 
  </details>
 
