@@ -6,7 +6,7 @@
 <details>
  <summary><h3>📄 Sobre mi </h3></summary>
 
-Soy un profesional apasionado por la tecnología, especializado en el desarrollo Backend y con experiencia como Appointment Setter. Actualmente, estoy enfocado en ampliar mis conocimientos en ciberseguridad para contribuir a la protección de datos en el mundo digital. Mi interés por las inteligencias artificiales me motiva a explorar soluciones innovadoras en cada proyecto. Siempre buscando nuevos retos y oportunidades para crecer en el emocionante campo de la tecnología. ¡Conéctame y exploremos cómo puedo aportar valor a tu equipo!
+Soy un profesional apasionado por la tecnología, especializado en el desarrollo Backend y con experiencia como Appointment Setter, lo cual capacita y mejora mis habilidades blandas. Actualmente, estoy estudiando una licenciatura en ciberseguridad en la universidad de Palermo, Buenos Aires, Argentina. Mi interés por las inteligencias artificiales me motiva a explorar soluciones innovadoras en cada proyecto. Siempre buscando nuevos retos y oportunidades para crecer en el emocionante campo de la tecnología. ¡Conéctame y aportaré gran valor a tu equipo!
 
  </details>
 
