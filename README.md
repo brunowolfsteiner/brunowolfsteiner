@@ -1,12 +1,12 @@
 # 👋🏻 Hola Mundo, soy Bruno Wolfsteiner
-**`Desarrollador Backend + Appointment Setter + Estudiante en Ciberseguridad`**
+**`Desarrollador Backend + Estudiante en Ciberseguridad`**
 
 <img align="center" alt="Coding" width="1200" src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif">
 
 <details>
  <summary><h3>📄 Sobre mi </h3></summary>
 
-Soy un profesional apasionado por la tecnología, especializado en el desarrollo Backend y con experiencia como Appointment Setter, lo cual capacita y mejora mis habilidades blandas. Actualmente, estoy estudiando una licenciatura en ciberseguridad en la universidad de Palermo, Buenos Aires, Argentina. Mi interés por las inteligencias artificiales me motiva a explorar soluciones innovadoras en cada proyecto. Siempre buscando nuevos retos y oportunidades para crecer en el emocionante campo de la tecnología. ¡Conéctame y aportaré gran valor a tu equipo!
+Soy un profesional apasionado por la tecnología, especializado en el desarrollo Backend y con experiencia como Appointment Setter, lo cual capacita y mejora mis habilidades blandas. Actualmente, estoy estudiando una Licenciatura en Ciberseguridad en la universidad de Palermo, Buenos Aires, Argentina. Mi interés por las inteligencias artificiales me motiva a explorar soluciones innovadoras en cada proyecto. Siempre buscando nuevos retos y oportunidades para crecer en el emocionante campo de la tecnología. ¡Conéctame y aportaré gran valor a tu equipo!
 
  </details>
 
