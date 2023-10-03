@@ -1,7 +1,7 @@
 # 👋🏻 Hola Mundo, soy Bruno Wolfsteiner
 **`Desarrollador Backend + Licenciatura en Ciberseguridad`**
 
-<p><iframe src="https://giphy.com/embed/jM4NGpvx6jZmW93hcZ" width="480" height="352" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/php-javascript-elbformat-coding-hamburg-jM4NGpvx6jZmW93hcZ">via GIPHY</a></p>
+<img align="center" alt="Coding" width="1200" src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif">
 
 <details>
  <summary><h3>📄 Sobre mi </h3></summary>
