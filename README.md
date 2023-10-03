@@ -7,10 +7,8 @@
  <summary><h3>📄 Sobre mi </h3></summary>
 
 Soy un profesional apasionado por la tecnología, especializado en el desarrollo Backend y con experiencia como Appointment Setter, lo cual capacita y mejora mis habilidades blandas. Actualmente, estoy estudiando una Licenciatura en Ciberseguridad en la universidad de Palermo, Buenos Aires, Argentina. Mi interés por las inteligencias artificiales me motiva a explorar soluciones innovadoras en cada proyecto. Siempre buscando nuevos retos y oportunidades para crecer en el emocionante campo de la tecnología. ¡Conéctame y aportaré gran valor a tu equipo!
-<h3>CV</h3> [cv.pdf](https://github.com/brunowolfsteiner/brunowolfsteiner/files/12788014/cv.pdf)
-
-
- </details>
+</details>
+<h3>CV</h3> [cv Bruno Wolfsteiner backend.pdf](https://github.com/brunowolfsteiner/brunowolfsteiner/files/12788030/cv.Bruno.Wolfsteiner.backend.pdf)
 
 
 ## 💻 Tech Stack
