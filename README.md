@@ -8,7 +8,6 @@
 Programador apasionado con experiencia en desarrollo de software e interés en las inteligencias artificiales. Mi objetivo principal es utilizar mis habilidades técnicas para crear soluciones innovadoras y eficientes, mi experiencia abarca desde la gestión de bases de datos hasta la optimización de servidores. Además, cuento con habilidades blandas que me permiten colaborar eficazmente en equipos multidisciplinarios y adaptarme rápidamente a entornos de trabajo dinámicos.
 ¡Conéctame y aportaré gran valor a tu equipo!
 </details>
-
 <details>
 <summary><h3>📄 CV </h3></summary>
 [cv Bruno Wolfsteiner backend.pdf](https://github.com/brunowolfsteiner/brunowolfsteiner/files/12788030/cv.Bruno.Wolfsteiner.backend.pdf)
