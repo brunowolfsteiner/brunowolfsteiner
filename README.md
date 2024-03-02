@@ -10,7 +10,7 @@ Programador apasionado con experiencia en desarrollo de software e interés en l
 </details>
 <details>
 <summary><h3>📄 CV </h3></summary>
-[cv Bruno Wolfsteiner backend.pdf](https://github.com/brunowolfsteiner/brunowolfsteiner/files/12788030/cv.Bruno.Wolfsteiner.backend.pdf)
+[cv Bruno Wolfsteiner backend.pdf](https://www.canva.com/design/DAFmgEv0iL0/AusN-Bl2UjJm-7iqtL9Zmw/view)
 </details>
 
 ## 💻 Tech Stack
