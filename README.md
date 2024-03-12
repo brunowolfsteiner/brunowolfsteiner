@@ -1,5 +1,5 @@
 # 👋🏻 Hola Mundo, soy Bruno Wolfsteiner
-**`Backend Developer`**
+**`Backend Developer & Licenciatura en Sistemas`**
 
 <img align="center" alt="Coding" width="1200" src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif">
 
