@@ -8,7 +8,7 @@ Entusiasta de la tecnología y estudiante universitario de Licenciatura en Infor
 ¡Conéctame y aportaré gran valor a tu equipo!
 
 <h3>CV </h3>
-hacerlo
+(https://cvbrunowolfsteiner.my.canva.site/)
 
 ## Tech Stack
 <p align="left"> Python · Pandas · Jupyter · MySQL Workbench · Power BI · Tableau · Excel · JavaScript · TypeScript Node.JS · MVC · Express · Sequelize · MongoDB · Linux · PowerShell · Docker · Git · Google Colab 
