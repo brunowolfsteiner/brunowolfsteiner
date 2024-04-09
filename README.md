@@ -9,7 +9,7 @@ Entusiasta de la tecnología y estudiante universitario de Licenciatura en Infor
 </details>
 <details>
 <summary><h3>📄 CV </h3></summary>
-
+hola
 
 ## 💻 Tech Stack
 <p align="left"> Python · Pandas · Jupyter · MySQL Workbench · Power BI · Tableau · Excel · JavaScript · TypeScript Node.JS · MVC · Express · Sequelize · MongoDB · Linux · PowerShell · Docker · Git · Google Colab </p>
