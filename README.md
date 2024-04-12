@@ -1,5 +1,5 @@
 # 👋🏻 Hola Mundo, soy Bruno Wolfsteiner
-<h3>Data Analyst</h3>
+<h3>Data Analyst • Backend Developer</h3>
 
 <img align="center" alt="Coding" width="1200" src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif">
 
