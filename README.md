@@ -1,5 +1,5 @@
 # 👾 Hello World, I'm Bruno Wolfsteiner
-**`Backend Developer`**
+**`Backend Developer In Progress`**
 
  ###
  
@@ -10,9 +10,8 @@
 Soy un entusiasta de la informática, programo y aprendo de manera autodidacta desde 2019.
 En la actualidad, me encuentro cursando en una carrera universitaria de Ingeniería en Sistemas, donde estoy profundizando mis conocimientos y adquiriendo experiencia en diversos entornos de desarrollo, especialmente en el área Backend, ya que es en la que voy a especializarme. Recientemente trabajé sobre bases de datos y estoy familiarizándome con distintos sistemas operativos.
 Mi objetivo a futuro es crear una Startup de tecnología.
-https://cvbrunowolfsteiner.my.canva.site/bruno-wolfsteiner-cv
- 
- </details>
+ https://cvbrunowolfsteiner.my.canva.site/bruno-wolfsteiner-cv
+</details>
 
  ###
 
